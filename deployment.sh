@@ -7,7 +7,7 @@ arm_client_secret_var=""
 arm_sub_id_var=""
 arm_tenant_id_var=""
 
-git clone https://github.com/kharbandaashish/deloitte-case-func-tf.git
+git clone --single-branch --branch main https://github.com/kharbandaashish/deloitte-case-func-tf
 
 cd deloitte-case-func-tf
 
