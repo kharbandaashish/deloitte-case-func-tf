@@ -50,23 +50,3 @@ variable "file_name" {
   description = "Name of the python file"
 }
 
-/*
-variable "backend_rg_name" {
-  description = "Name of the backend rg"
-}
-
-variable "backend_storage_name" {
-  description = "Name of the backend storage"
-}
-
-variable "backend_container_name" {
-  description = "Name of the backend container"
-}
-
-variable "backend_key" {
-  description = "Name of the backend key"
-}
-
-*/
-
-
